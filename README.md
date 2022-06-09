@@ -3,7 +3,11 @@
 <!--
 **jhonnasVI/jhonnasVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![colourful-illustration-programmer-working_23-2148281410 (2)]
+
+
+(https://user-images.githubusercontent.com/107188569/172839092-09dd0fd6-1f5d-4edd-8820-ff9128358a4c.jpg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
