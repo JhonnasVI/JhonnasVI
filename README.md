@@ -1,6 +1,6 @@
-![colourful-illustration-programmer-working_23-2148281410 (2)](https://user-images.githubusercontent.com/107188569/172839433-7e4ab064-11df-44df-976a-ae96121d2ea7.jpg)
-
 Hi there 👋 human!
+
+![colourful-illustration-programmer-working_23-2148281410 (2)](https://user-images.githubusercontent.com/107188569/172839433-7e4ab064-11df-44df-976a-ae96121d2ea7.jpg)
 
 <!--
 **jhonnasVI/jhonnasVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
